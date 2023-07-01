@@ -1,8 +1,8 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align = 'center' >Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1>
 
-I´m Izzatullo, ML/AI specialist in Uzbekistan
+<h3 align="center">I'm Izzatullo, A Machine Learning Specialist from Uzbekistan</h1>
 
-## Technologies & Tools 
+## Technologies & Tools I love
   - ![Data Science](https://img.shields.io/badge/Data_Science-blue?style=flat-square&logo)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square&logo)
   ![Artificial Intellegence](https://img.shields.io/badge/Artificial_Intellegence-blue?style=flat-square&logo)
@@ -22,11 +22,8 @@ I´m Izzatullo, ML/AI specialist in Uzbekistan
 
 
 ## ⚡ GitHub Stats
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=khazratoff&show_icons=true&count_private=true&theme=gruvbox" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazratoff&layout=compact&count_private=true&theme=gruvbox" />
-</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khazratoff&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazratoff&layout=compact&theme=radical" />
 
 
 
