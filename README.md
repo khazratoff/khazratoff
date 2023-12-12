@@ -1,8 +1,7 @@
 <h1 align = 'center' >Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1>
 
-<h3 align="center">I'm Izzatullo, A Machine Learning Specialist from Uzbekistan</h1>
 
-## Technologies & Tools I love
+Technologies & Tools I love
   - ![Data Science](https://img.shields.io/badge/Data_Science-blue?style=flat-square&logo)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square&logo)
   ![Artificial Intellegence](https://img.shields.io/badge/Artificial_Intellegence-blue?style=flat-square&logo)
