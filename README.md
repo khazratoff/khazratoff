@@ -14,8 +14,9 @@ Technologies & Tools I love
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=flat-square&logo=tensorflow)
 
   - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+  ![MlFlow](https://img.shields.io/badge/-MLflow-181717?style=flat-square&logo=mlflow)
+
 
 
 
