@@ -3,14 +3,14 @@
 
 Technologies & Tools I love
   - ![Data Science](https://img.shields.io/badge/Data_Science-blue?style=flat-square&logo)
-  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square&logo)
-  ![Artificial Intellegence](https://img.shields.io/badge/Artificial_Intellegence-blue?style=flat-square&logo)
+  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square&logo)
+  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-red?style=flat-square&logo)
   
   - ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
   ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)
   ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-orange?style=flat-square&logo=seaborn)
-  ![Scikit-learn](https://img.shields.io/badge/Scikitlearn-black?style=flat-square&logo=scikitlearn)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=matplotlib)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-black?style=flat-square&logo=scikitlearn)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=flat-square&logo=tensorflow)
 
   - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
