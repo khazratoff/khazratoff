@@ -28,5 +28,4 @@ Technologies & Tools I love
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazratoff&layout=compact&theme=radical" />
 
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khazratoff.khazratoff)
