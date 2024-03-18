@@ -4,7 +4,6 @@
 - Major <br>
    ![Data Science](https://img.shields.io/badge/Data_Science-blue?style=flat-square&logo)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square&logo)
-  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-red?style=flat-square&logo)
 - Core <br>
   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
   ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy)
