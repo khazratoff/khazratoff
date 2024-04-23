@@ -1,4 +1,4 @@
-<h1 align = 'center' >Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Izzatillo</h1>
+<h1 align = 'center' >Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1>
 
 
 - Major <br>
@@ -12,6 +12,7 @@
   ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-black?style=flat-square&logo=scikitlearn)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-black?style=flat-square&logo=tensorflow)
 - Tools & Technologies <br>
-   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
   ![MlFlow](https://img.shields.io/badge/-MLflow-181717?style=flat-square&logo=mlflow)
+  ![Airflow](https://img.shields.io/badge/-Airflow-181717?style=flat-square&logo=airflow)
