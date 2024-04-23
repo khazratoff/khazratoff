@@ -15,16 +15,3 @@
    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
   ![MlFlow](https://img.shields.io/badge/-MLflow-181717?style=flat-square&logo=mlflow)
-
-
-
-
-
-
-
-## ⚡ GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khazratoff&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazratoff&layout=compact&theme=radical" />
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khazratoff.khazratoff)
